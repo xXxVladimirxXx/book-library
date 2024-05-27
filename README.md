@@ -13,6 +13,7 @@ This is a simple REST API application for managing a book library. It allows you
 
 - Supports CRUD operations (Create, Read, Update, Delete) for books.
 - API endpoints for managing books.
+- Validates incoming requests.
 - PHPUnit tests for all endpoints.
 - Uses Laravel's Eloquent ORM.
 
